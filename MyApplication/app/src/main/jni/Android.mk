@@ -16,6 +16,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
+LOCAL_CFLAGS := -std=c++11
 LOCAL_MODULE    := nativeegl
 LOCAL_CFLAGS    := -Wall
 LOCAL_SRC_FILES := jniapi.cpp renderer.cpp

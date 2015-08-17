@@ -18,48 +18,48 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\app\src\main\jni\main.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\main.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\Game.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\Game.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\Nave.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\Nave.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\OpegGLImplement.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\OpegGLImplement.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\Sprite.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\Sprite.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\SpriteDef.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\SpriteDef.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\app\src\main\jni\Stage.cpp">
+    <ClCompile Include="..\..\app\src\main\jni\src\Stage.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Source\Game.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\Config.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\Config.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\Game.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\Sprite.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\Nave.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\SpriteDeF.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\OpegGLImplement.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\Nave.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\Sprite.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\Stage.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\SpriteDeF.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Source\OpegGLImplement.h">
+    <ClInclude Include="..\..\app\src\main\jni\src\Stage.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
